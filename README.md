@@ -10,7 +10,7 @@ I'm a game developer who loves programming many sorts of things. Although I prim
 
 - [Telegram][telegram] (@kiyoshiMizuki)
 - [Email][email] (kiyoshimizuki<span>@</span>pm.me)
-- Discord (kiyoshi#1107)
+- Discord (kiyoshi#8721)
 
 [telegram]: https://t.me/kiyoshiMizuki "A link to contact me through Telegram"
 [email]: mailto:kiyoshimizuki@pm.me "A link to email me"
